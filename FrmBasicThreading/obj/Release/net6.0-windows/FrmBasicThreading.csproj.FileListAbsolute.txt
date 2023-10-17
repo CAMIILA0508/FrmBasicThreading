@@ -1,0 +1,17 @@
+C:\Users\Rubio.172288\source\repos\FrmBasicThreading\FrmBasicThreading\bin\Release\net6.0-windows\FrmBasicThreading.exe
+C:\Users\Rubio.172288\source\repos\FrmBasicThreading\FrmBasicThreading\bin\Release\net6.0-windows\FrmBasicThreading.deps.json
+C:\Users\Rubio.172288\source\repos\FrmBasicThreading\FrmBasicThreading\bin\Release\net6.0-windows\FrmBasicThreading.runtimeconfig.json
+C:\Users\Rubio.172288\source\repos\FrmBasicThreading\FrmBasicThreading\bin\Release\net6.0-windows\FrmBasicThreading.dll
+C:\Users\Rubio.172288\source\repos\FrmBasicThreading\FrmBasicThreading\bin\Release\net6.0-windows\FrmBasicThreading.pdb
+C:\Users\Rubio.172288\source\repos\FrmBasicThreading\FrmBasicThreading\obj\Release\net6.0-windows\FrmBasicThreading.csproj.AssemblyReference.cache
+C:\Users\Rubio.172288\source\repos\FrmBasicThreading\FrmBasicThreading\obj\Release\net6.0-windows\FrmBasicThreading.Form1.resources
+C:\Users\Rubio.172288\source\repos\FrmBasicThreading\FrmBasicThreading\obj\Release\net6.0-windows\FrmBasicThreading.csproj.GenerateResource.cache
+C:\Users\Rubio.172288\source\repos\FrmBasicThreading\FrmBasicThreading\obj\Release\net6.0-windows\FrmBasicThreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rubio.172288\source\repos\FrmBasicThreading\FrmBasicThreading\obj\Release\net6.0-windows\FrmBasicThreading.AssemblyInfoInputs.cache
+C:\Users\Rubio.172288\source\repos\FrmBasicThreading\FrmBasicThreading\obj\Release\net6.0-windows\FrmBasicThreading.AssemblyInfo.cs
+C:\Users\Rubio.172288\source\repos\FrmBasicThreading\FrmBasicThreading\obj\Release\net6.0-windows\FrmBasicThreading.csproj.CoreCompileInputs.cache
+C:\Users\Rubio.172288\source\repos\FrmBasicThreading\FrmBasicThreading\obj\Release\net6.0-windows\FrmBasicThreading.dll
+C:\Users\Rubio.172288\source\repos\FrmBasicThreading\FrmBasicThreading\obj\Release\net6.0-windows\refint\FrmBasicThreading.dll
+C:\Users\Rubio.172288\source\repos\FrmBasicThreading\FrmBasicThreading\obj\Release\net6.0-windows\FrmBasicThreading.pdb
+C:\Users\Rubio.172288\source\repos\FrmBasicThreading\FrmBasicThreading\obj\Release\net6.0-windows\FrmBasicThreading.genruntimeconfig.cache
+C:\Users\Rubio.172288\source\repos\FrmBasicThreading\FrmBasicThreading\obj\Release\net6.0-windows\ref\FrmBasicThreading.dll
